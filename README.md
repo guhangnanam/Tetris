@@ -1,0 +1,1 @@
+This is my version of the classic 2D game Tetris. The code is written in python and uses the Pygame package. The code uses a combination of 3 different classes as well as the built in sprite class for Pygame. The three classes are called Tetris, Tetrimino, and Tile. The game also includes a score counter, a reset button, and a display that showcases the next Tetrimino.
